@@ -8,9 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Precision::VERSION
   spec.authors       = ["Sean Devine"]
   spec.email         = ["barelyknown@icloud.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
-  spec.homepage      = ""
+  spec.summary       = %q{Calculate the precision of a anything that can be converted into a decimal.}
+  spec.homepage      = "https://github.com/barelyknown/precision"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
