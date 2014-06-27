@@ -1,5 +1,5 @@
 ## Precision
-Calculate the precision of a anything that can be converted into a decimal.
+Calculate the precision of anything that can be converted into a decimal.
 
 ```ruby
 irb> Precision::Calculator.new(BigDecimal("12.12")).calculate
